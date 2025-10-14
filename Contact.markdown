@@ -3,4 +3,4 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-Wil je in contact komen? Dat kan via een [elektronische brief](mailto:mvanloon@freedom.nl).
+Wil je rechtstreeks een verbinding met mij leggen? Stuur een [elektronische brief](mailto:mvanloon@freedom.nl).
