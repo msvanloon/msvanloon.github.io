@@ -11,7 +11,7 @@ In de tussentijd schrijf ik een monografie, *A Philosophical Inquiry into Insect
 
 Daarnaast publiceer ik onder verschillende pseudoniemen die niet nader gespecificeerd kunnen worden. 
 
-Je kunt mij [benaderen](mailto:mvanloon@freedom.nl) als schaduwauteur en raadgever.
+Je kunt mij [benaderen](mailto:post@mvanloon.nl) als schaduwauteur en raadgever.
 
 
 De website is gemaakt met behulp van [Jekyll](https://jekyllrb.com/).
