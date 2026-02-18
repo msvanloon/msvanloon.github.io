@@ -29,7 +29,7 @@ Overneming of vermenigvuldiging, geheel of gedeeltelijk, is slechts toegestaan m
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mvanloon.nl" # the base hostname & protocol for your site, e.g. http://example.com
-# github_username:  "mvanloon"
+# github_username:  "msvanloon"
 
 # Build settings
 theme: minima
