@@ -14,7 +14,4 @@ Daarnaast publiceer ik onder verschillende pseudoniemen die niet nader gespecifi
 Je kunt mij [benaderen](mailto:post@mvanloon.nl) als schaduwauteur en raadgever.
 
 
-De website is gemaakt met behulp van [Jekyll](https://jekyllrb.com/).
-Alle schrijfsels en uitlatingen op deze website zijn op persoonlijke titel. 
-Eventuele overeenkomsten en gelijkenissen met de realiteit berusten op puur toeval.
-Overneming of vermenigvuldiging, geheel of gedeeltelijk, slechts met uitdrukkelijke toestemming van de auteur geoorloofd. 
+
