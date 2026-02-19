@@ -13,5 +13,6 @@ Daarnaast publiceer ik onder verschillende pseudoniemen die niet nader gespecifi
 
 Je kunt mij [benaderen](mailto:post@mvanloon.nl) als schaduwauteur en raadgever.
 
+Deze website heb ik gemaakt met behulp van [Jekyll](https://jekyllrb.com/).
 
 
