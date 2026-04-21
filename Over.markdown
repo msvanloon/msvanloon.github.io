@@ -5,7 +5,7 @@ permalink: /over/
 ---
 Ik ben filosoof, fervent wandelaar en schrijver. Je kunt me kennen van Vroege Vogels, Studio Plantaardig, of interviews in kranten en tijdschriften zoals Het Parool, Trouw, Het Laatste Nieuws, AD, Quest, NEMO Kennislink en VOLUME.
 
-Geboren en getogen in het schilderachtige Veluwse dorp Bennekom, waar ik de bossen ken als mijn broekzak. In Nijmegen heb ik wijsbegeerte (*philosophy of mind*, research master) gestudeerd. Vervolgens heb ik als project- en programmamanager binnen de decentrale overheid gewerkt. Momenteel werk ik als raadsadviseur en plaatsvervangend griffier. 
+Geboren en getogen in het schilderachtige Veluwse dorp Bennekom, waar ik de bossen ken als mijn broekzak. In Nijmegen heb ik wijsbegeerte (*philosophy of mind*, research master) gestudeerd. Nadien heb ik binnen de gemeentelijke overheid gewerkt als projectleider, programmamanager, raadsadviseur en plaatsvervangend griffier; momenteel werk ik als opgaveleider.
 
 In de tussentijd schrijf ik een monografie, *A Philosophical Inquiry into the Insect Industry*, als promovendus bij Wageningen University & Research. Tijdens mijn onderzoek ontving ik in 2021 de Vonne Lund Researcher-prijs van de *European Society for Agricultural and Food Ethics*.
 
