@@ -6,7 +6,7 @@ permalink: /publ/
 
 Voulgari-Kokota, A., van Loon, M.S., & Bovenkerk, B. (2023). *Insects as mini-livestock: Considering insect welfare in feed production*. **NJAS: Impact in Agricultural and Life Sciences**, 95(1).
 
-Van Loon, M.S. & Bovenberk, B. (2023). *Don’t eat the bugs!*. In **New Omnivorism and Strict Veganism**, C. Bobier & A. Martin (Eds.). Routledge.. 
+Van Loon, M.S. & Bovenberk, B. (2023). *Don’t eat the bugs!*. In **New Omnivorism and Strict Veganism**, C. Bobier & A. Martin (Eds.). Routledge.
 
 de Jong, L.S., Bovenkerk, B. & van Loon, M.S., (2023). *Reflections on future protein*. **In Our future proteins: A diversity of perspectives**, S. Pyett, W. Jenkins, B. van Mierlo, L.M. Trindade, D. Welch & H. van Zanten (Eds.). VU University Press.
 
